@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Adnan AlBeda</Authors>
+    <Company />
+    <Copyright>2019 - Adnan AlBeda</Copyright>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <Description>This library converts numbers into words for languages:
+- Arabic
+- English</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
