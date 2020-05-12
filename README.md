@@ -103,7 +103,7 @@ This library provides simple Documnetation to help in building convertors.
 ### Who can participate in this library?
 
 If you feel you like this library and you want to add a converter for a non-provided language,
-then you can fork the program, inherit NumToWordConverterBase to your converter and apply its abstract with extra methods if needed,
+then you may pull request or fork the program, inherit NumToWordConverterBase to your converter and apply its abstract with extra methods if needed,
 then finally to place your code file into converters folder.
 
 ## Licesne
